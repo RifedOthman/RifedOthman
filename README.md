@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifedothman/rifedothman/output/github-snake.svg" />
 <img alt="github-snake" 
      src="https://raw.githubusercontent.com/rifedothman/rifedothman/output/github-snake.svg" 
-     width="1100" 
-     height="250" />
+     width="950" 
+     height="160" />
 </picture>
