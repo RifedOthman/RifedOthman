@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">MY ROUTINE</h3>
 
-push ? feed_snake() : don't_feed_snake() ; 
+push_to_GitHub ? feed_snake() : snake_stay_hungry();
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifedothman/rifedothman/output/github-snake-dark.svg" />
