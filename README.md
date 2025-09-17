@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rifed</h1>
+<img src="https://i.pinimg.com/736x/4f/e0/06/4fe0069b038ddb1b7a72af8f82afb6ea.jpg"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rifed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifed" height="30" width="40" /></a>
